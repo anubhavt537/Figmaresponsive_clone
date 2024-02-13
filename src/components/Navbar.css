@@ -1,0 +1,46 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(102, 106, 106);
+    padding: 0 60px;
+  }
+  
+  .logo img,
+  .userlogo img {
+   
+    
+    width: 20px;
+    height: 20px;
+    margin-right: 5px; /* Add some margin between the icons */
+    margin-bottom: 12px;
+    gap: 30px;
+    
+  }
+  
+  .name p {
+    margin: 12px; /* Remove default margin of paragraphs */
+    margin-right: 10px; /* Add some margin between the text and icons */
+    margin-bottom: 30px;
+    color: white;
+  }
+  .name img{
+    
+    height: 12px;
+
+  }
+  .userlogo button {
+    margin-left: 10px;
+  }
+  
+  .userlogo p {
+    margin-left: 70px;
+  }
+  
+  .button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(37, 133, 237);
+    border-radius: 8px;
+    border: none;
+  }

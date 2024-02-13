@@ -1,0 +1,17 @@
+.left-sidebar a{
+    color: rgb(224, 222, 222);
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+}
+.left-sidebar a:hover{
+    border: 1px solid lightskyblue;
+}
+
+.page{
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: left;
+    border: 1px solid rgb(117, 112, 112);
+}

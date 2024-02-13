@@ -1,0 +1,49 @@
+.left-sidebar {
+    width: 15vw;
+    background-color: #36393b;
+    height: 100vh;
+    position: fixed;
+    top: 10;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 4rem;
+    
+   
+  }
+  .sidebar .nav-link {
+    color: #ebedf0; /* Set text color */
+    padding: 8px 16px; /* Add padding to nav links */
+    text-decoration: none; /* Remove default underline */
+    display: block; /* Display nav links as block elements */
+  }
+  
+  .sidebar .nav-link:hover {
+    background-color: rgb(146, 146, 181); /* Change background color on hover */
+  }
+
+  .right-sidebar {
+    width: 15vw;
+    background-color: #36393b;
+    height: 100vh;
+    position: fixed;
+    top: 10;
+    right: 0;
+    overflow-x: hidden;
+    padding-top: 1rem;
+  }
+  
+  .custom-navbar {
+    background-color: #36393b; /* Updated background color */
+    color: white; /* Updated text color */
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 250px;
+    right: 250px;
+  }
+  .Nav.Link{
+    color: white;
+  }
+  
+  
+  

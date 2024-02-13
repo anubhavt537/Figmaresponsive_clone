@@ -1,0 +1,21 @@
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    border: 1px solid rgb(43, 41, 41);
+}
+.Search-box input{
+    width:200px;
+    background-color: rgb(194, 200, 200);
+}
+.page{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+    color: rgb(220, 220, 220);
+}
+.comment{
+    color: white;
+    border: 1px solid rgb(161, 156, 156);
+}
